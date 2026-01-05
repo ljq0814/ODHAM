@@ -1,0 +1,11 @@
+Package: odham
+Type: Package
+Title: An Efficient Multiple Outlier Detection Algorithm in High-Dimensional Additive Model Based on Random Subset Sampling
+Version: 1.0
+Date: 2025-07-08
+Author: Chao Liu, Jiaqi Li
+Maintainer: Jiaqi Li <ljq0814nana@gmail.com>
+Description: An Efficient Multiple Outlier Detection Algorithm in High-Dimensional Additive Model Based on Random Subset Sampling.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.13), splines
+LinkingTo: Rcpp, RcppArmadillo
